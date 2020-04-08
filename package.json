@@ -1,0 +1,26 @@
+{
+    "name": "xcode-theme",
+    "displayName": "xcode-theme",
+    "description": "Xcode dark theme",
+    "version": "0.0.1",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/telmen/vscode-xcode-theme"
+    },
+    "publisher": "telmen",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Actual Xcode Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Actual Xcode Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
