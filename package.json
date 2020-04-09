@@ -2,7 +2,7 @@
 	"name": "actual-xcode-theme",
 	"displayName": "Actual Xcode Theme",
 	"description": "Xcode dark theme",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/telmen/vscode-xcode-theme"
