@@ -108,10 +108,9 @@
     "diffEditor.insertedTextBackground": "#5bb6ff60",
     "diffEditor.insertedTextBorder": "#5bb6ff60",
     "diffEditor.removedTextBackground": "#ff000040",
-    "diffEditor.removedTextBorder": "#ff0000",
+    "diffEditor.removedTextBorder": "#ff000040",
     "diffEditor.border": "#ff000040",
     "diffEditor.diagonalFill": "#aad4ff55",
-    "diffEditor.border": "#ff000050",
 
 
     "panel.background": "#1e1e1e",
