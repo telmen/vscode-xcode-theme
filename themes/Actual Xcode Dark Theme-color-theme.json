@@ -105,11 +105,14 @@
     "editorGutter.addedBackground": "#4dbf57",
     "editorGutter.deletedBackground": "#e21515",
 
-    "diffEditor.insertedTextBackground": "#ff0000",
-    "diffEditor.insertedTextBorder": "#ff0000",
-    "diffEditor.removedTextBackground": "#ff0000",
+    "diffEditor.insertedTextBackground": "#5bb6ff60",
+    "diffEditor.insertedTextBorder": "#5bb6ff60",
+    "diffEditor.removedTextBackground": "#ff000040",
     "diffEditor.removedTextBorder": "#ff0000",
-    "diffEditor.border": "#ff0000",
+    "diffEditor.border": "#ff000040",
+    "diffEditor.diagonalFill": "#aad4ff55",
+    "diffEditor.border": "#ff000050",
+
 
     "panel.background": "#1e1e1e",
     "panel.border": "#00000000",
