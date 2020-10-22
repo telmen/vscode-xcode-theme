@@ -7,11 +7,11 @@
     "descriptionForeground": "#ffffff",
     "errorForeground": "#ece1e0",
 
-    "textBlockQuote.background": "#ff0000",
-    "textBlockQuote.border": "#ff0000",
-    "textCodeBlock.background": "#ff0000",
-    "textLink.activeForeground": "#6699fe",
-    "textLink.foreground": "#6699fe",
+    "textBlockQuote.background": "#ffffff",
+    "textBlockQuote.border": "#ffffff",
+    "textCodeBlock.background": "#595959",
+    "textLink.activeForeground": "#E5E5E5",
+    "textLink.foreground": "#E5E5E5",
     "textPreformat.foreground": "#ffffffd8",
     "textSeparator.foreground": "#ffffffd8",
 
@@ -30,7 +30,7 @@
     "scrollbarSlider.hoverBackground": "#ffffff8F",
 
     "activityBar.background": "#2d2d2d",
-    "activityBar.dropBackground": "#555555",
+    "activityBar.dropBorder": "#555555",
     "activityBar.border": "#00000000",
     "activityBar.foreground": "#ffffff",
     "activityBar.inactiveForeground": "#ffffff8F",
@@ -114,8 +114,8 @@
 
 
     "panel.background": "#1e1e1e",
-    "panel.border": "#00000000",
-    "panel.dropBackground": "#555555",
+    "panel.border": "#3a3a3a20",
+    "panel.dropBorder": "#555555",
     "panelTitle.activeBorder": "#ff000000",
     "panelTitle.activeForeground": "#ffffff",
     "panelTitle.inactiveForeground": "#ffffff8F",
